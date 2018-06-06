@@ -10,6 +10,7 @@ Python3
 $ pip install tensorflow
 $ pip install pandas
 $ pip install prettytable
+$ pip install plyvel
 ```
 
 ## How To Use
